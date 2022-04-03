@@ -1,0 +1,142 @@
+@import url(https://fonts.google.com/specimen/Lexend+Deca);
+@import url(https://fonts.google.com/specimen/Big+Shoulders+Display);
+
+
+.main{
+    height: 600px;
+    width: 1000px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5px;
+    margin-left: 150px;
+
+}
+
+.one{
+    height: 450px;
+    width: 300px;
+    background-color: orange;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+.ione{
+    margin-top: 25px;
+    margin-left: 35px;
+}
+
+.hone{
+    margin-left: 35px;
+    color: white;
+    font-family: monospace;
+}
+ 
+.pone{
+    display: block;
+    text-align:center;
+    color:white;
+    margin-left: 25px;
+    margin-right: 25px;
+    line-height: 25px;
+    font-family: Big Shoulders Display ;
+}
+
+.bone{
+    padding-right: 30px;
+    padding-top: 15px;
+    padding-left: 30px;
+    padding-bottom: 15px;
+    border-radius: 100px;
+    margin-top: 50px;
+    margin-left: 50px;
+    color:white;
+    border-width: 2px;
+    background-color: orange;
+    border-color: white;
+}
+
+.two{
+    height: 450px;
+    width: 300px;
+    background-color:darkcyan;
+}
+
+.itwo{
+    margin-top: 25px;
+    margin-left: 35px;
+}
+
+.htwo{
+    margin-left: 35px;
+    color: white;
+    font-family: monospace;
+}    
+
+.ptwo{
+    display: block;
+    text-align:center;
+    color:white;
+    margin-left: 25px;
+    margin-right: 25px;
+    line-height: 25px;
+    font-family: Big Shoulders Display;
+}
+
+.btwo{
+    padding-right: 30px;
+    padding-top: 15px;
+    padding-left: 30px;
+    padding-bottom: 15px;
+    border-radius: 100px;
+    margin-top: 50px;
+    margin-left: 50px;
+    color:white;
+    border-width: 2px;
+    background-color:darkcyan;
+    border-color: white;
+}
+
+
+.three{
+    height: 450px;
+    width: 300px;
+    background-color: #05595B;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.ithree{
+    margin-top: 25px;
+    margin-left: 35px;
+}
+
+.hthree{
+    margin-left: 35px;
+    color: white;
+    font-family: monospace;
+}    
+
+.pthree{
+    display: block;
+    text-align:center;
+    color:white;
+    margin-left: 25px;
+    margin-right: 25px;
+    line-height: 25px;
+    font-family: Big Shoulders Display;
+}
+
+.bthree{
+    padding-right: 30px;
+    padding-top: 15px;
+    padding-left: 30px;
+    padding-bottom: 15px;
+    border-radius: 100px;
+    margin-top: 50px;
+    margin-left: 50px;
+    color:white;
+    border-width: 2px;
+    background-color:#05595B;
+    border-color: white;
+}
